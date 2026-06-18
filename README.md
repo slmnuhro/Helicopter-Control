@@ -6,11 +6,11 @@ This project covers the full workflow of modelling, identifying, and controlling
 
 The project explores:
 
+- Separate positive- and negative-input models for the asymmetric dynamics
 - Grey-box system identification (`idgrey` / `greyest`)
 - Kalman filter state estimation
 - Linear-Quadratic-Integral (LQI) control
 - Model Predictive Control (MPC)
-- Separate positive- and negative-input models for the asymmetric dynamics
 
 ## Project Overview
 
